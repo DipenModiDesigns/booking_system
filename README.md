@@ -3,6 +3,8 @@
 
 Simple laravel 10 + vuejs 3 booking form, Easy setup or use code in your choice it's free ;)
 
+(Frontend VueJs, Backend Laravel)
+
 ## Installation
 
 Download or git clone this repo and then go to project folder and run below commands to run project or copy code.
